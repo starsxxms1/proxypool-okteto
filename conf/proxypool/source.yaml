@@ -56,6 +56,466 @@
   options:
     url: https://v2ray.banyunxiaoxi.ml/
 
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://gfwglass.tk/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://gfwglass.tk/surge/proxies
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/surge/proxies
+
+- type: subscribe
+  options:
+    url: https://gfwglass.tk/surge/proxies
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/trojan/sub
+
+- type: subscribe
+  options:
+    url: http://8.135.91.61/ss/sub
+
+- type: subscribe
+  options:
+    url: http://8.135.91.61/sip002/sub
+
+- type: subscribe
+  options:
+    url: http://8.135.91.61/ssr/sub
+
+- type: subscribe
+  options:
+    url: http://8.135.91.61/vmess/sub
+
+- type: subscribe
+  options:
+    url: http://8.135.91.61/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://zua426.cf/ss/sub
+
+- type: subscribe
+  options:
+    url: https://zua426.cf/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://zua426.cf/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://zua426.cf/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://zua426.cf/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.remon602.ga/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.remon602.ga/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.remon602.ga/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.remon602.ga/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.remon602.ga/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/ss/sub
+
+- type: subscribe
+  options:
+    url: https://free.zdl.im/ss/sub
+
+- type: subscribe
+  options:
+    url: https://free.zdl.im/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://free.zdl.im/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://free.zdl.im/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://free.zdl.im/ss/sub
+
+- type: subscribe
+  options:
+    url: https://42.194.196.226/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://42.194.196.226/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://42.194.196.226/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://42.194.196.226/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://42.194.196.226/ss/sub
+
+- type: subscribe
+  options:
+    url: https://outseen.tk/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://outseen.tk/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://outseen.tk/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://outseen.tk/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://outseen.tk/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.whuboy.com/surge/proxies
+
+- type: subscribe
+  options:
+    url: https://proxy.whuboy.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.whuboy.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.whuboy.com/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.whuboy.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.jdhk.ga/ss/sub
+
+- type: subscribe
+  options:
+    url: https://dl.zjzj.xyz/ss/sub
+
+- type: subscribe
+  options:
+    url: https://dl.zjzj.xyz/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://dl.zjzj.xyz/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://dl.zjzj.xyz/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://dl.zjzj.xyz/ss/sub
+
+- type: subscribe
+  options:
+    url: https://github.com/sunshinehome/zidong/blob/main/006625.txt
+
+- type: subscribe
+  options:
+    url: https://raw.fastgit.org/freefq/free/master/v2
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/ss/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/ss/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/ss/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/ss/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/trojan/sub
+
+- type: subscribe
+  options:
+    url: http://8.135.91.61/clash/proxies?type=all
+
+- type: subscribe
+  options:
+    url: https://hk.xhrzg2017.xyz/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://sspool.nl/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://proxypool.fly.dev/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/clash/proxies
+
+- type: subscribe
+  options:
+    url: http://104.128.81.6:8080/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://sspool.nl/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://proxypool.fly.dev/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://ednovas.design/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://smart.zxcyec.top/ss/sub
+
+- type: subscribe
+  options:
+    url: https://smart.zxcyec.top/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://smart.zxcyec.top/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://smart.zxcyec.top/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://smart.zxcyec.top/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.ednovas.xyz/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies
+
+- type: subscribe
+  options:
+    url: https://ednovas.design/clash/proxies
+
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -81,6 +541,33 @@
   options:
     url: https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/trojan.txt
 
+- type: clash
+  options:
+    url: https://github.com/sunshinehome/zidong/blob/main/00627%E7%B2%BE%E9%80%89clash.yaml.txt
+
+
+
 # 某个网站抓取
 - type: web-freessrxyz
   options:
+  url: https://www.cfmem.com/
+
+- type: web-freessrxyz
+  options:
+  url: https://lncn.org/
+
+- type: web-freessrxyz
+  options:
+  url: https://fanqiangdang.com/
+
+- type: web-freessrxyz
+  options:
+  url: https://www.gaofumei.net/
+
+- type: web-freessrxyz
+  options:
+  url: https://free-ss.site/
+
+ - type: web-freessrxyz
+  options:
+  url: https://github.com/freefq/free 
